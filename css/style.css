@@ -31,3 +31,29 @@ p{
 .center-align{
     margin-left: 40%;
 }
+
+.contact-icons{
+    font-size: 200px;
+    border-radius: 300px;
+    background-color: white;
+    color: teal;
+    transition: all 2s;
+}
+
+.contact-icons:hover{
+    font-size: 250px;
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    display: flex;
+    align-items: center;justify-content: center;
+    background-color: rgb(36, 32, 32);
+    color: rgb(102, 97, 97);
+    height: 100px;
+}
+
+.margin{
+    margin-left: 30px;
+}
