@@ -1,3 +1,33 @@
 .nav-icon{
     width: 50px;
 }
+
+.carousel{
+    background-image: linear-gradient(120deg, rgb(85, 85, 187) ,rgb(187, 151, 85));
+}
+
+.borders{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.dark-titles{
+    color: rgb(53, 44, 44);
+}
+
+p{
+    font-size: 15px;
+}
+
+.background{
+    font-family: monospace;
+    background-color: rgb(53, 52, 52);
+}
+
+.light-titles{
+    color: rgb(167, 166, 166);
+}
+
+.center-align{
+    text-align: center;
+}
