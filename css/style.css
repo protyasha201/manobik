@@ -51,7 +51,7 @@ p{
     align-items: center;justify-content: center;
     background-color: rgb(36, 32, 32);
     color: rgb(102, 97, 97);
-    height: 100px;
+    height: 50px;
 }
 
 .margin{
@@ -60,4 +60,8 @@ p{
 
 .sections{
     height: 800px;
+}
+
+.shadow{
+    box-shadow: 5px 5px 10px white;
 }
